@@ -28,83 +28,83 @@ function Index() {
   // }, [])
   const ArrayProducts = [
     {
-      img: "./img/image.png",
+      img: "./Img/image.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image2.png",
+      img: "./Img/image2.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image3.png",
+      img: "./Img/image3.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image4.png",
+      img: "./Img/image4.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image5.png",
+      img: "./Img/image5.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image6.png",
+      img: "./Img/image6.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image7.png",
+      img: "./Img/image7.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image8.png",
+      img: "./Img/image8.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image9.png",
+      img: "./Img/image9.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image10.png",
+      img: "./Img/image10.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     },
     {
-      img: "./img/image7  .png",
+      img: "./Img/image7  .png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
       point: "49.50"
     }, {
-      img: "./img/image3.png",
+      img: "./Img/image3.png",
       content: "Vintage Typewriter to post awesome stories about UI design and webdev.",
       price: "$13.95",
       review: "1258 bids, 359 watchers $5.95 for shipping",
